@@ -33,6 +33,7 @@
         layer4 {
             bindings = <&mo 4>;
             key-positions = <38 39>;
+            layers = <0>;
         };
     };
 
